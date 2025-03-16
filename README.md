@@ -63,9 +63,3 @@ The system will validate the tweet content and save it to the tweets collection.
 
 6. Exit the Program
 Select this option to log out and exit the system.
-
-# Names of anyone you have collaborated with (as much as it is allowed within the course policy) or a line saying that you did not collaborate with anyone else.  
-We did not collaborate with anyone else
-
-# More detail of any AI tool used.
-NA
