@@ -1,15 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZQQhHp7h)
-# Assignment3
 
-# CMPUT 291 Mini Project 1 -Fall 2024
-Group member names and ccids (3-4 members)  
-  agbabiak, olutimilehin agbabiaka  
-  aflewwel, alex flewwelling  
-  mcomrie, max comrie
-  njoshi4, nikhil joshi
-
-# Group work break-down strategy
-We each contributed to specific components of the system based on our individual strengths and expertise. Alex took responsibility for developing the login and logout functionality, as well as the followers list, ensuring secure user authentication. Timi worked on the search tweets feature, enabling users to retrieve tweets based on keywords or hashtags. Nick handled the search users feature, allowing for efficient user lookup by username or other attributes. Max focused on the compose tweet functionality, ensuring that tweets could be created, validated, and saved to the database while meeting platform constraints. Each of us spent approximately three hours on our respective components, and we collectively spent an additional four hours integrating all the parts of the system. We coordinated our efforts through regular meetings, sharing updates and resolving challenges to ensure cooperation with each other and adherence to project requirements.
 
 # Code execution guide
 System Setup
